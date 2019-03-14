@@ -1,0 +1,33 @@
+{
+  "name": "koa-paas",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "lib",
+    "types"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aslijia/koa-paas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aslijia/koa-paas/issues"
+  },
+  "homepage": "https://github.com/Aslijia/koa-paas#readme",
+  "devDependencies": {
+    "@types/is": "0.0.21",
+    "@types/koa": "^2.0.48",
+    "@types/node": "^11.11.3"
+  },
+  "dependencies": {
+    "is": "^3.3.0",
+    "koa": "^2.7.0"
+  }
+}
